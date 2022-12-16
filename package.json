@@ -1,0 +1,24 @@
+{
+  "name": "mighty-nein-api",
+  "version": "1.0.0",
+  "description": "Mighty Nein API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imattking/mighty-nein-api.git"
+  },
+  "author": "Matt King",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imattking/mighty-nein-api/issues"
+  },
+  "homepage": "https://github.com/imattking/mighty-nein-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
